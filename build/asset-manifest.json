@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mobilezone/static/css/main.fdd62de9.css",
+    "main.js": "/mobilezone/static/js/main.27415bb6.js",
+    "static/media/images.jpg": "/mobilezone/static/media/images.b2cd1bd015f2e056f0cc.jpg",
+    "static/media/product-3.png": "/mobilezone/static/media/product-3.c3efa90eccfddf493093.png",
+    "static/media/product-2.png": "/mobilezone/static/media/product-2.a656498ab1520e7547ab.png",
+    "static/media/product-1.png": "/mobilezone/static/media/product-1.33f10f5d3cf3f146419e.png",
+    "static/media/product-4.png": "/mobilezone/static/media/product-4.1cc28adbad6bbd31fb01.png",
+    "static/media/banner-2.jpg": "/mobilezone/static/media/banner-2.f0a32c813e4c5a3d0178.jpg",
+    "static/media/banner-1.jpg": "/mobilezone/static/media/banner-1.af4bc22704bd820cd5b1.jpg",
+    "static/media/banner-3.jpg": "/mobilezone/static/media/banner-3.c3256102490d03d755d5.jpg",
+    "index.html": "/mobilezone/index.html",
+    "main.fdd62de9.css.map": "/mobilezone/static/css/main.fdd62de9.css.map",
+    "main.27415bb6.js.map": "/mobilezone/static/js/main.27415bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd62de9.css",
+    "static/js/main.27415bb6.js"
+  ]
+}

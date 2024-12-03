@@ -1,0 +1,15 @@
+ 
+.main-menu {
+  list-style: none;
+}
+.main-menu a {
+  font-weight: bold;  color: #2b304a;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+.main-menu li {
+  float: left;
+  padding: 12px 20px;
+}
+ 

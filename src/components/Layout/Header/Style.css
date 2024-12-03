@@ -1,0 +1,30 @@
+ .top-header {
+  background: #030303;
+  padding: 8px 0px;
+  border-bottom: 1px solid #3131315e;
+}
+.head1p1 {
+  font-size: 12px;
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+}
+.head1ul {
+  list-style: none;
+  float: right;
+}
+.head1ul li {
+  float: left;
+  padding-left: 10px;
+}
+.head1ul li a {
+  font-size: 12px;
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+.head1ul li i {
+  font-size: 15px;
+  color: #ffffff;
+}
+ 
+  
